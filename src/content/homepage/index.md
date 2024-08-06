@@ -1,40 +1,40 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Selamat Datang di Budi Pekerti
+  content: Unit Kegiatan Mahasiswa Bidang Sosial untuk Penerima Beasiswa di Telkom University. 🚀
   image: /images/banner-art.png
   button:
-    label: "Contact Us"
-    link: "/contact"
+    label: "Kenal Lebih Dekat"
+    link: "/about"
     enable: true
 
 # feature
-feature: 
-  title: Something You Need To Know
+feature:
+  title: Fokus Utama Budi Pekerti
   features:
-  - name: "Clean Code"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
-    icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
-    icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
-    icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
-    icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name: "Pengembangan Karakter"
+      icon: "/images/code.svg"
+      content: "Sebagai penerima beasiswa tentu harus menjadi contoh bagi mahasiswa lainnya oleh karena itu Budi Pekerti adalah wadah para duta pengembangan karakter"
+    - name: "Wawasan Kebangsaan"
+      icon: "/images/oop.svg"
+      content: "Menjadi penerima beasiswa adalah amanah yang besar, perlu jiwa nasionalis dan kebangsaan agar memiliki jiwa cinta tanah air."
+    - name: "Kesehatan Mental"
+      icon: "/images/user-clock.svg"
+      content: "Tuntutan sebagai penerima beasiswa memang berat, tentu Budi Pekerti mewadahi anggotanya dengan konseling dan webinar."
+    - name: "Kompetisi"
+      icon: "/images/love.svg"
+      content: "Yang membedakan mahasiswa biasa dan penerima beasiswa adalah prestasi, Budi Pekerti sangat mendukung anggotanya mengikuti berbagai kejuaraan."
+    - name: "Beasiswa"
+      icon: "/images/speedometer.svg"
+      content: "Budi Pekerti adalah wadah penerima beasiswa, tentu informasi beasiswa akan selalu dibagikan secara update."
+    - name: "Lainnya"
+      icon: "/images/cloud.svg"
+      content: "Budi Pekerti bukan hanya UKM, Budi Pekerti juga mendukung pengembangan Sof-Skill dan Hard-Skill untuk seluruh penerima beasiswa."
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Kamu penerima beasiswa di Tel-U? Ayo gabung bersama kami!"
+    content: "Mari gabung menjadi pengurus di Tim Budi Pekerti, banyak hal yang bisa kamu dapatkan mulai dari koneksi yang bagus dan pengalaman baru di organisasi."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -44,17 +44,17 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images: 
+  - title: "Mari berkenalan dengan pengurus Budi Pekerti"
+    content: "Kami sangat senang bisa berkenalan dengan banyak orang hebat diluar sana. Jika kamu salahsatunya silahkan kontak pengurus-pengurus kami."
+    images:
       - "/images/service-slide-1.png"
     button:
       enable: true
       label: Check it out
       link: /contact
-  
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+
+  - title: "Yuk ikuti berbagai kegiatan yang diselenggarakan Tim Budi Pekerti"
+    content: "Banyak kegiatan menarik yang diselenggarakan oleh Tim Budi Pekerti yang disesuaikan untuk mendukung para penerima beasiswa dan mahasiswa   di Universitas Telkom."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -64,8 +64,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Jadilah Juara bersama Tim Kompetisi Budi Pekerti"
+    content: "Tim Budi Pekerti sangat mendukung kamu menjadi mahasiswa berprestasi dengan mengikuti kompetisi-kompetisi kejuaraan diluar sana, sudah banyak yang menjadi juara."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -76,16 +76,16 @@ services:
       link: /contact
 
 # workflow
-workflow: 
-  title: "Experience the best workflow with us"
+workflow:
+  title: "Kontribusi Kami untuk Almamater & Bangsa!"
   image: "/images/banner.png"
   description: ""
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: '/images/cta.png'
+  title: Ingin bekerjasama dengan kami?
+  content: Jika anda memiliki visi dan misi yang sama dengan kami, mari mewujudkannya bersama. Kami sangat terbuka dengan tawaran kerjasama dari anda. Karena dengan gotong royong kita bisa!
+  image: "/images/cta.png"
   button:
     enable: true
     label: "Contact Us"
